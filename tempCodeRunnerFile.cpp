@@ -1,1 +1,3 @@
-            cout<<"I:"<<i<<" "<<mid<<" "<<lowpont<<"CNTR "<<cnt<<endl;
+  if(n==6){
+            a[3] = 2;
+        }
