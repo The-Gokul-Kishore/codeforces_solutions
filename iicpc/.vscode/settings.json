@@ -38,10 +38,7 @@
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [],
-  "C_Cpp_Runner.includeSearch": [
-    "*",
-    "**/*"
-  ],
+  "C_Cpp_Runner.includeSearch": ["*", "**/*"],
   "C_Cpp_Runner.excludeSearch": [
     "**/build",
     "**/build/**",
@@ -57,24 +54,6 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "ostream": "cpp",
-    "iostream": "cpp",
-    "cmath": "cpp",
-    "vector": "cpp"
-  },
-  "editor.tabSize": 4,
-  "editor.insertSpaces": true,
-  "editor.detectIndentation": false,
-  "editor.autoClosingBrackets": "always",
-  "editor.autoIndent": "advanced",
-  "editor.quickSuggestions": {
-    "comments": "on",
-    "strings": "on",
-    "other": "on"
-  },
-  "editor.acceptSuggestionOnEnter": "off",
-  "editor.suggestSelection": "first",
-  "editor.tabCompletion": "off",
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true
+    "ostream": "cpp"
+  }
 }
